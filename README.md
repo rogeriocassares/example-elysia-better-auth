@@ -15,4 +15,5 @@ bun dev
 ```
 
 Open http://localhost:3333/ with your browser to see the result.
+
 Open http://localhost:3333/openapi with your browser to see the routes.
